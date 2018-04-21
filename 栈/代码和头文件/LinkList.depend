@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1523876851 source:c:\users\shinelon\desktop\linklist\main.c
+	"stack.h"
+	<stdlib.h>
+	<stdio.h>
+
+1523850304 c:\users\shinelon\desktop\linklist\stack.h
+
+1523794621 c:\users\shinelon\desktop\linklist\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1523878622 source:c:\users\shinelon\desktop\linklist\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1524152408 source:c:\users\shinelon\desktop\作业格式\专业班级-姓名-作业类型（训练营、小组）--第几次\四则运算\sizeyunsuan\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+	<conio.h >
+	<ctype.h>
+
+1524060453 c:\users\shinelon\desktop\作业格式\专业班级-姓名-作业类型（训练营、小组）--第几次\四则运算\sizeyunsuan\stack.h
+
+1524060348 source:c:\users\shinelon\desktop\作业格式\专业班级-姓名-作业类型（训练营、小组）--第几次\四则运算\sizeyunsuan\stack.c
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+
