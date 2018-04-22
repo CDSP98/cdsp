@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1524413172 source:c:\users\shinelon\desktop\duilie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1524413224 c:\users\shinelon\desktop\duilie\queue.h
+	<stddef.h>
+
